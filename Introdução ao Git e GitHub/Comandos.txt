@@ -5,3 +5,5 @@ git add. = Enviar essa pasta para o servidor.
 git status = ver a ação a alteração dentro do repositorio.
 cd = entra no repositorio.
 git push origin main = enviando todos os commints para a nuvens.
+
+eu estpu aquisadas
