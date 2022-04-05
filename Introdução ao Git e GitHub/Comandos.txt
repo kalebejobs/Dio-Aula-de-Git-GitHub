@@ -1,0 +1,7 @@
+O Git Bash é um terminal extendido pra otimizar o uso do Git.
+
+git clone + (endereço do link do repositorio) = clonar repositorio para a maquina local.
+git add. = Enviar essa pasta para o servidor.
+git status = ver a ação a alteração dentro do repositorio.
+cd = entra no repositorio.
+git push origin main = enviando todos os commints para a nuvens.
